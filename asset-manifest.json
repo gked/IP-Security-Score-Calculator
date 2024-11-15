@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/IP-Security-Score-Calculator/static/css/main.775f96b2.css",
-    "main.js": "/IP-Security-Score-Calculator/static/js/main.0ae28727.js",
+    "main.js": "/IP-Security-Score-Calculator/static/js/main.4c704225.js",
     "static/js/453.a8094fe5.chunk.js": "/IP-Security-Score-Calculator/static/js/453.a8094fe5.chunk.js",
     "static/media/logo.svg": "/IP-Security-Score-Calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/IP-Security-Score-Calculator/index.html",
     "main.775f96b2.css.map": "/IP-Security-Score-Calculator/static/css/main.775f96b2.css.map",
-    "main.0ae28727.js.map": "/IP-Security-Score-Calculator/static/js/main.0ae28727.js.map",
+    "main.4c704225.js.map": "/IP-Security-Score-Calculator/static/js/main.4c704225.js.map",
     "453.a8094fe5.chunk.js.map": "/IP-Security-Score-Calculator/static/js/453.a8094fe5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.775f96b2.css",
-    "static/js/main.0ae28727.js"
+    "static/js/main.4c704225.js"
   ]
 }
